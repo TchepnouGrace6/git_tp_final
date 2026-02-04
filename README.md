@@ -38,7 +38,7 @@ Notre equipe, composee de professionnels passiones et complementaires, s'engage 
 Noms des étudiants : 
 * PAMBE TCHEPNOU grace de dieu
 * TAKAM Manuel
-*NYEMB NKEN  dimitri
+* NYEMB NKEN  dimitri
 
 Date du jour : 04/02/2026
 
@@ -50,6 +50,7 @@ Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** d
 ### Exercice 3 : Travail d'équipe ! (5 points)
 
 Pour cet exercice, je vais appeler les collaborateurs :
+* Etudiant Pambe grace
 * Etudiant Takam Manuel 
 * Etudiant Nyem Dimitri
 
