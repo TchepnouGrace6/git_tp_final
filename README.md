@@ -31,17 +31,16 @@ Pour savoir comment forker, lisez ceci : [savoir comment forker](https://github.
 > Pour ceux qui ne savent plus comment faire, voici un rappel de la démarche : [ajouter des collaborateurs à mon dépôt github](https://github.com/ThomasEcalle/git_tp_final/blob/master/add_collaborators.md).
 
 ### Exercice 2 : Présentez-vous ! (5 points)
-
-Dans ce second exercice, vous allez modifier les lignes qui suivent dans le README.md et présenter votre équipe (nom de famille et prénom) ainsi que la date du jour du TP.
+Notre equipe, composee de professionnels passiones et complementaires, s'engage a mener a bien le projet TP_CICD. Les membres de notre equipe sont les suivants:
 
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
-* LEFEBVRE Charles
-* MICHELIS Nathanyel
-* COMPAGNONI Florent
+* PAMBE TCHEPNOU grace de dieu
+* TAKAM Manuel
+*NYEMB NKEN  dimitri
 
-Date du jour : 28/01/2021
+Date du jour : 04/02/2026
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
@@ -51,9 +50,9 @@ Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** d
 ### Exercice 3 : Travail d'équipe ! (5 points)
 
 Pour cet exercice, je vais appeler les collaborateurs :
-* collaborateur 1
-* collaborateur 2
-* collaborateur 3
+* Etudiant Takam Manuel 
+* Etudiant Nyem Dimitri
+
 
 selon l'ordre dans lequel vous avez mis vos noms dans la présentation.
 
